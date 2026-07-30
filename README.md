@@ -276,7 +276,7 @@ Licensed under the **MIT License**.
 
 # 👨‍💻 Author
 
-**Arpan Biswas**
+**Arpan Biswas and PK-26 IIT KGP KRITI TEAM**
 
 Student Researcher • Robotics Enthusiast • Embedded Systems Developer
 
